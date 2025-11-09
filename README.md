@@ -9,7 +9,7 @@ It was built in C++ using OOP concepts.
 * Filtering and sorting options for read operations
 * Compact view showing only the type and price of each residence
 
-## OOP Concepts
+## OOP Concepts Used
 
 * Diamond inheritance
 * Polymorphism
