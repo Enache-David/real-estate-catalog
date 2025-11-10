@@ -1,4 +1,4 @@
-# Real Estate Catalog (OOP in C++)
+# Real Estate Catalog
 
 This is a prototype of an app that would allow users to manage a catalog of real estate assets.
 It was built in C++ using OOP concepts.
